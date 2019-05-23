@@ -22,7 +22,7 @@ class NavBar extends Component {
     return (
       <Menu color="red" inverted widths={2}>
         <Menu.Item name="home" active={activeItem === "home"}>
-          <h1 className="App-title">Fengshui Portugal</h1>
+          <h1 className="App-title">SpeadSheet Web App</h1>
         </Menu.Item>
         <Menu.Item
           name="Logout"
