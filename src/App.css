@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 60px;
+  color: white;
+  padding-bottom: 5px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 0px 0px 10px 0px;
+  color: rgb(0, 0, 0);
+}
+
+.App-title {
+  font-size: 2em;
+  font-weight: 900;
+  text-transform: uppercase;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+.Sub-title {
+  font-size: 1.4em;
+  font-weight: 500;
+  color: white;
+
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#employee-details {
+  padding: 10px 10px 0px 10px;
+
+}
+
+.titulo {
+  color: white;
+
+}
+
+.ui .menuStyle .menu {
+  background-color: #222;
+
+
+}
+
+
