@@ -15,7 +15,7 @@ import {
   Checkbox
 } from "semantic-ui-react";
 
-const keyGoogleSheet = "1sIAuX1i2_peVJd58cG1xvLHt-cq5OGZ6L7yZamslUuw";
+const keyGoogleSheet = "*********************",;
 
 class ModalSheets extends React.Component {
   constructor() {
