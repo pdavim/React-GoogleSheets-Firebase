@@ -7,7 +7,7 @@ import { Header, Image, Modal, Statistic, Icon, Grid } from "semantic-ui-react";
 import NavBar from "./NavBar";
 import Clock from 'react-live-clock'
 
-const keyGoogleSheet = "1sIAuX1i2_peVJd58cG1xvLHt-cq5OGZ6L7yZamslUuw";
+const keyGoogleSheet = "*********************",;
 
 class ModalSheets extends React.Component {
   constructor() {
