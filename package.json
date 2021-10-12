@@ -15,7 +15,7 @@
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.86.0",
     "tabletop": "^1.5.2",
-    "electron": "^5.0.1"
+    "electron": "^11.5.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,7 +27,7 @@
     "electron-pack": "build --win --macos -c.extraMetadata.main=build/Main.js"
   },
   "devDependencies": {
-    "electron": "^5.0.1"
+    "electron": "^11.5.0"
   },
   "build": {
     "files": [
